@@ -9,10 +9,11 @@ STEP 1: Create Power section for voltage regulation:
 STEP 2: Make relay Circuit like this:
 
         Relay 1:
-        ![image](https://github.com/user-attachments/assets/de2ab843-54e2-44d4-95b1-b90c43d8bd85)
-        
+![Screenshot 2024-10-30 203448](https://github.com/user-attachments/assets/e887decd-d897-400c-ae5f-70fd4f93e404)
+  
         Relay 2:
-        ![image](https://github.com/user-attachments/assets/2218a258-267f-4af5-977a-415ac0c6f6ab)
+![Screenshot 2024-10-30 203615](https://github.com/user-attachments/assets/6667ba63-18f4-429b-8f1b-4b7d01e75c17)
+
 
 
         
